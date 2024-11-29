@@ -18,7 +18,7 @@ The rest of the response is fine, with great usage of markdown elements.
 # For when accuracy breaks balls
 
 - Other than that the code snippets provided work fine, free of syntax errors. There are no deprecated libraries, classes or methods, and there are no bugs in the code
-
+- Other than that the provided code works fine, free of syntax errors. There are no deprecated libraries, classes or methods, and there are no bugs in the code
 
 # CODE RUN
 - the code was run locally to be able to excecute external crates
