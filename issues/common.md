@@ -14,6 +14,10 @@ The rest of the response is fine, with great usage of markdown elements.
 - it says that markdown elements are fine
 - presentation is marked as not an issue
 
+# FOR WHEN MARKDOWN IS BROKEN
+
+## Presentation
+The markdown of this response has had an issue and it has mixed up the pieces of code and the pieces of other markdown elements. For example there is a piece of code that just says undefined, and the rest of the code snippets are not rendered correctly so the Rust code isn't highlighted.
 
 # For when accuracy breaks balls
 
